@@ -1,18 +1,18 @@
 <h1 align="center">Hola, soy JOJO 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Aprendiendo+Python+desde+cero;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Construyendo+proyectos+peque%C3%B1os+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Aprendiendo+Python+desde+cero;Quiero+estudiar+Ingenier%C3%ADa+en+Sistemas;Construyendo+proyectos+peque%C3%B1os+cada+d%C3%ADa" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**
+- 🎓 Quiero estudiar **Ingeniería en Sistemas**
 - 🐍 Actualmente aprendiendo **Python** (excepciones, POO, pandas)
 - 📈 Practicando limpieza de datos con **pandas** y estructuras de control
 - 🌱 Cada semana sumo algo nuevo a mi repertorio
-- 🎮 Cuando no programo, jugando algo como *Bitburner* (¡también con código!)
+- 🎮 Cuando no programo, jugando *Celeste*
 - 📫 Podés encontrarme en mis repositorios de abajo
 
 ---
