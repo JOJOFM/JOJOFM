@@ -12,7 +12,7 @@
 - 🐍 Actualmente aprendiendo **Python** (excepciones, POO, pandas)
 - 📈 Practicando limpieza de datos con **pandas** y estructuras de control
 - 🌱 Cada semana sumo algo nuevo a mi repertorio
-- 🎮 Cuando no programo, jugando *Celeste*
+- 🎮 Cuando no programo, juego *Celeste*
 - 📫 Podés encontrarme en mis repositorios de abajo
 
 ---
