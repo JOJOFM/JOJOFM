@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hola, soy JOJO 👋</h1>
 
-<!--
-**JOJOFM/JOJOFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Aprendiendo+Python+desde+cero;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Construyendo+proyectos+peque%C3%B1os+cada+d%C3%ADa" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en Sistemas**
+- 🐍 Actualmente aprendiendo **Python** (excepciones, POO, pandas)
+- 📈 Practicando limpieza de datos con **pandas** y estructuras de control
+- 🌱 Cada semana sumo algo nuevo a mi repertorio
+- 🎮 Cuando no programo, jugando algo como *Bitburner* (¡también con código!)
+- 📫 Podés encontrarme en mis repositorios de abajo
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JOJOFM&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOJOFM&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JOJOFM&label=Visitas%20al%20perfil&color=58A6FF&style=flat" alt="Profile views" />
+</p>
