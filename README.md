@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy JOJO 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Aprendiendo+Python+desde+cero;Quiero+estudiar+Ingenier%C3%ADa+en+Sistemas;Construyendo+proyectos+peque%C3%B1os+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aprendiendo+Python+desde+cero;Quiero+estudiar+Ing.+en+Sistemas;Construyendo+proyectos+peque%C3%B1os" alt="Typing SVG" />
 </p>
 
 ---
